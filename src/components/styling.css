@@ -1,0 +1,38 @@
+.chat_section {
+    padding: 20px 0px;
+    background: #fff;
+}
+
+.chat_container .chat_body {
+    padding: 10px 10px 30px 10px;
+    height: 300px !important;
+    overflow-x: hidden;
+}
+
+.mbSmilesButton {
+    float: right
+}
+
+.mbSmilesBox {
+    left: auto !important;
+    right: 0;
+    display: block;
+    position: absolute;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 0px 4px #ddd;
+}
+
+.mbSmilesBox span {
+    display: inline-block;
+    width: 50px;
+    height: 28px;
+    margin-left: -5px;
+    text-align: center;
+}
+
+
+.homeBtn:hover, .homeBtn:focus{
+    background-color: white !important;
+}
